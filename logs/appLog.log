@@ -1,0 +1,500 @@
+17:07:22.051 [main] INFO  com.myamazon.utility.Log - -------------Start storeTitleTest------------------------
+17:07:22.071 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+17:07:22.081 [main] INFO  com.myamazon.utility.Log - Store title validated successfully
+17:07:22.081 [main] INFO  com.myamazon.utility.Log - -------------End storeTitleTest------------------------
+17:07:35.146 [main] INFO  com.myamazon.utility.Log - -------------Start storeTitleTest------------------------
+17:07:35.147 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+17:07:35.156 [main] INFO  com.myamazon.utility.Log - Store title validated successfully
+17:07:35.157 [main] INFO  com.myamazon.utility.Log - -------------End storeTitleTest------------------------
+17:12:33.024 [main] INFO  com.myamazon.utility.Log - -------------Start productAvailabilityTest------------------------
+17:12:33.090 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+17:12:33.486 [main] INFO  com.myamazon.utility.Log - Entered text :t-shirt
+17:12:33.798 [main] INFO  com.myamazon.utility.Log - Search Result Page loaded
+17:12:53.910 [main] INFO  com.myamazon.utility.Log - productAvailability validated successfully
+17:12:53.910 [main] INFO  com.myamazon.utility.Log - -------------End productAvailabilityTest------------------------
+17:16:29.378 [main] INFO  com.myamazon.utility.Log - -------------Start productAvailabilityTest------------------------
+17:16:29.396 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+17:16:29.528 [main] INFO  com.myamazon.utility.Log - Entered text :t-shirt
+17:16:29.709 [main] INFO  com.myamazon.utility.Log - Search Result Page loaded
+17:19:04.722 [main] INFO  com.myamazon.utility.Log - -------------Start loginTest------------------------
+17:19:04.769 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+17:19:17.117 [main] INFO  com.myamazon.utility.Log - Click on SignIn
+17:19:17.382 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123456@gmail.com
+17:19:17.629 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123
+17:19:25.936 [main] INFO  com.myamazon.utility.Log - Entered Email address and password for login
+17:19:25.948 [main] INFO  com.myamazon.utility.Log - Log in validated successfully
+17:19:25.948 [main] INFO  com.myamazon.utility.Log - -------------End loginTest------------------------
+17:19:36.619 [main] INFO  com.myamazon.utility.Log - -------------Start endToEndTest------------------------
+17:19:36.620 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+17:19:36.819 [main] INFO  com.myamazon.utility.Log - Entered text :t-shirt
+17:19:41.761 [main] INFO  com.myamazon.utility.Log - Search Result Page loaded
+17:19:55.085 [main] INFO  com.myamazon.utility.Log - -------------Start addToCartTest------------------------
+17:19:55.086 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+17:19:55.286 [main] INFO  com.myamazon.utility.Log - Entered text :t-shirt
+17:19:57.721 [main] INFO  com.myamazon.utility.Log - Search Result Page loaded
+17:20:09.929 [main] INFO  com.myamazon.utility.Log - -------------Start storeTitleTest------------------------
+17:20:09.930 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+17:20:09.941 [main] INFO  com.myamazon.utility.Log - Store title validated successfully
+17:20:09.941 [main] INFO  com.myamazon.utility.Log - -------------End storeTitleTest------------------------
+17:20:20.448 [main] INFO  com.myamazon.utility.Log - -------------Start productAvailabilityTest------------------------
+17:20:20.449 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+17:20:20.664 [main] INFO  com.myamazon.utility.Log - Entered text :t-shirt
+17:20:25.423 [main] INFO  com.myamazon.utility.Log - Search Result Page loaded
+17:20:56.802 [main] INFO  com.myamazon.utility.Log - -------------Start orderHistoryTest------------------------
+17:20:56.802 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+17:21:04.917 [main] INFO  com.myamazon.utility.Log - Clicked on Sign in button
+17:21:05.099 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123456@gmail.com
+17:21:05.289 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123
+17:21:08.199 [main] INFO  com.myamazon.utility.Log - Entered Email address and password for login
+17:21:28.302 [main] INFO  com.myamazon.utility.Log - orderHistory label validated successfully
+17:21:28.302 [main] INFO  com.myamazon.utility.Log - -------------End orderHistoryTest------------------------
+17:21:37.526 [main] INFO  com.myamazon.utility.Log - -------------Start totalPriceTest------------------------
+17:21:37.527 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+17:21:37.739 [main] INFO  com.myamazon.utility.Log - Entered text :t-shirt
+17:21:40.871 [main] INFO  com.myamazon.utility.Log - Search Result Page loaded
+17:22:35.484 [main] INFO  com.myamazon.utility.Log - -------------Start loginTest------------------------
+17:22:35.527 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+17:22:41.946 [main] INFO  com.myamazon.utility.Log - Click on SignIn
+17:22:42.189 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123456@gmail.com
+17:22:42.402 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123
+17:22:46.766 [main] INFO  com.myamazon.utility.Log - Entered Email address and password for login
+17:22:46.779 [main] INFO  com.myamazon.utility.Log - Log in validated successfully
+17:22:46.779 [main] INFO  com.myamazon.utility.Log - -------------End loginTest------------------------
+17:23:06.002 [main] INFO  com.myamazon.utility.Log - -------------Start endToEndTest------------------------
+17:23:06.004 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+17:23:06.205 [main] INFO  com.myamazon.utility.Log - Entered text :t-shirt
+17:23:11.346 [main] INFO  com.myamazon.utility.Log - Search Result Page loaded
+17:23:16.913 [main] INFO  com.myamazon.utility.Log - Clicked on product on Search Result Page
+17:23:17.093 [main] INFO  com.myamazon.utility.Log - Entered text :2.0
+17:23:17.094 [main] INFO  com.myamazon.utility.Log - Entered quantity
+17:23:17.267 [main] INFO  com.myamazon.utility.Log - Dropdown option selected
+17:23:17.268 [main] INFO  com.myamazon.utility.Log - Selected size
+17:23:17.503 [main] INFO  com.myamazon.utility.Log - Clicked on Add to Cart button
+17:23:25.741 [main] INFO  com.myamazon.utility.Log - Clicked on Proceed to Checkout button on Add to Cart page
+17:23:34.412 [main] INFO  com.myamazon.utility.Log - Clicked on Proceed to Checkout button on Order page
+17:23:34.745 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123456@gmail.com
+17:23:34.948 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123
+17:23:39.969 [main] INFO  com.myamazon.utility.Log - User logged in
+17:23:44.558 [main] INFO  com.myamazon.utility.Log - Clicked on Proceed to Checkout button on Shipping Page
+17:23:44.728 [main] INFO  com.myamazon.utility.Log - Checked Terms checkbox on Shipping Page
+17:23:48.788 [main] INFO  com.myamazon.utility.Log - Clicked on Proceed to Checkout button on Payment Page
+17:23:51.719 [main] INFO  com.myamazon.utility.Log - Clicked on Payment Method on Order Summary Page
+17:23:56.944 [main] INFO  com.myamazon.utility.Log - Clicked on Confirm Order button on Order Summary Page
+17:23:56.975 [main] INFO  com.myamazon.utility.Log - confirmOrderMessage validated successfully
+17:23:56.975 [main] INFO  com.myamazon.utility.Log - -------------End endToEndTest------------------------
+17:24:12.597 [main] INFO  com.myamazon.utility.Log - -------------Start addToCartTest------------------------
+17:24:12.598 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+17:24:12.872 [main] INFO  com.myamazon.utility.Log - Entered text :t-shirt
+17:24:17.681 [main] INFO  com.myamazon.utility.Log - Search Result Page loaded
+17:24:22.616 [main] INFO  com.myamazon.utility.Log - Clicked on product on Search Result Page
+17:24:22.843 [main] INFO  com.myamazon.utility.Log - Entered text :2.0
+17:24:22.843 [main] INFO  com.myamazon.utility.Log - Entered quantity
+17:24:23.023 [main] INFO  com.myamazon.utility.Log - Dropdown option selected
+17:24:23.024 [main] INFO  com.myamazon.utility.Log - Selected size
+17:24:23.256 [main] INFO  com.myamazon.utility.Log - Clicked on Add to Cart button
+17:24:46.769 [main] INFO  com.myamazon.utility.Log - addToCartMessage validated successfully
+17:24:46.769 [main] INFO  com.myamazon.utility.Log - -------------End addToCartTest------------------------
+17:24:58.722 [main] INFO  com.myamazon.utility.Log - -------------Start storeTitleTest------------------------
+17:24:58.723 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+17:24:58.729 [main] INFO  com.myamazon.utility.Log - Store title validated successfully
+17:24:58.730 [main] INFO  com.myamazon.utility.Log - -------------End storeTitleTest------------------------
+17:25:09.335 [main] INFO  com.myamazon.utility.Log - -------------Start productAvailabilityTest------------------------
+17:25:09.335 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+17:25:09.559 [main] INFO  com.myamazon.utility.Log - Entered text :t-shirt
+17:25:15.136 [main] INFO  com.myamazon.utility.Log - Search Result Page loaded
+17:25:35.251 [main] INFO  com.myamazon.utility.Log - productAvailability validated successfully
+17:25:35.251 [main] INFO  com.myamazon.utility.Log - -------------End productAvailabilityTest------------------------
+17:25:46.403 [main] INFO  com.myamazon.utility.Log - -------------Start orderHistoryTest------------------------
+17:25:46.404 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+17:25:56.593 [main] INFO  com.myamazon.utility.Log - Clicked on Sign in button
+17:25:56.833 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123456@gmail.com
+17:25:57.029 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123
+17:26:00.571 [main] INFO  com.myamazon.utility.Log - Entered Email address and password for login
+17:26:20.689 [main] INFO  com.myamazon.utility.Log - orderHistory label validated successfully
+17:26:20.689 [main] INFO  com.myamazon.utility.Log - -------------End orderHistoryTest------------------------
+17:26:31.334 [main] INFO  com.myamazon.utility.Log - -------------Start totalPriceTest------------------------
+17:26:31.334 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+17:26:31.541 [main] INFO  com.myamazon.utility.Log - Entered text :t-shirt
+17:26:33.502 [main] INFO  com.myamazon.utility.Log - Search Result Page loaded
+17:26:36.279 [main] INFO  com.myamazon.utility.Log - Clicked on product on Search Result Page
+17:26:36.538 [main] INFO  com.myamazon.utility.Log - Entered text :2.0
+17:26:36.538 [main] INFO  com.myamazon.utility.Log - Entered quantity
+17:26:36.768 [main] INFO  com.myamazon.utility.Log - Dropdown option selected
+17:26:36.769 [main] INFO  com.myamazon.utility.Log - Selected size
+17:26:37.025 [main] INFO  com.myamazon.utility.Log - Clicked on Add to Cart button
+17:26:41.840 [main] INFO  com.myamazon.utility.Log - Clicked on Proceed to Checkout button on Add to Cart page
+17:26:41.998 [main] INFO  com.myamazon.utility.Log - totalExpectedPrice validated successfully
+17:26:41.998 [main] INFO  com.myamazon.utility.Log - -------------End totalPriceTest------------------------
+17:38:19.192 [main] INFO  com.myamazon.utility.Log - -------------Start loginTest------------------------
+17:38:19.220 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+17:38:25.190 [main] INFO  com.myamazon.utility.Log - Click on SignIn
+17:38:25.590 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123456@gmail.com
+17:38:25.873 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123
+17:38:30.327 [main] INFO  com.myamazon.utility.Log - Entered Email address and password for login
+17:38:30.338 [main] INFO  com.myamazon.utility.Log - Log in validated successfully
+17:38:30.338 [main] INFO  com.myamazon.utility.Log - -------------End loginTest------------------------
+17:39:16.581 [main] INFO  com.myamazon.utility.Log - -------------Start loginTest------------------------
+17:39:16.600 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+17:39:20.015 [main] INFO  com.myamazon.utility.Log - Click on SignIn
+17:39:20.217 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123456@gmail.com
+17:39:20.407 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123
+17:39:23.205 [main] INFO  com.myamazon.utility.Log - Entered Email address and password for login
+17:39:23.213 [main] INFO  com.myamazon.utility.Log - Log in validated successfully
+17:39:23.213 [main] INFO  com.myamazon.utility.Log - -------------End loginTest------------------------
+17:39:34.394 [main] INFO  com.myamazon.utility.Log - -------------Start storeTitleTest------------------------
+17:39:34.395 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+17:39:34.402 [main] INFO  com.myamazon.utility.Log - Store title validated successfully
+17:39:34.402 [main] INFO  com.myamazon.utility.Log - -------------End storeTitleTest------------------------
+17:39:44.140 [main] INFO  com.myamazon.utility.Log - -------------Start productAvailabilityTest------------------------
+17:39:44.140 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+17:39:44.317 [main] INFO  com.myamazon.utility.Log - Entered text :t-shirt
+17:39:59.411 [main] INFO  com.myamazon.utility.Log - Search Result Page loaded
+17:39:59.483 [main] INFO  com.myamazon.utility.Log - productAvailability validated successfully
+17:39:59.483 [main] INFO  com.myamazon.utility.Log - -------------End productAvailabilityTest------------------------
+17:40:08.302 [main] INFO  com.myamazon.utility.Log - -------------Start orderHistoryTest------------------------
+17:40:08.302 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+17:40:10.321 [main] INFO  com.myamazon.utility.Log - Clicked on Sign in button
+17:40:10.546 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123456@gmail.com
+17:40:10.757 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123
+17:40:13.291 [main] INFO  com.myamazon.utility.Log - Entered Email address and password for login
+17:40:13.360 [main] INFO  com.myamazon.utility.Log - orderHistory label validated successfully
+17:40:13.360 [main] INFO  com.myamazon.utility.Log - -------------End orderHistoryTest------------------------
+17:40:34.445 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123456@gmail.com
+17:40:34.619 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123
+17:47:38.769 [main] INFO  com.myamazon.utility.Log - -------------Start loginTest------------------------
+17:47:38.790 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+17:48:03.847 [main] INFO  com.myamazon.utility.Log - -------------Start loginTest------------------------
+17:48:03.887 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+17:48:06.879 [main] INFO  com.myamazon.utility.Log - Click on SignIn
+17:48:07.125 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123456@gmail.com
+17:48:07.364 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123
+17:48:10.011 [main] INFO  com.myamazon.utility.Log - Entered Email address and password for login
+17:48:10.020 [main] INFO  com.myamazon.utility.Log - Log in validated successfully
+17:48:10.021 [main] INFO  com.myamazon.utility.Log - -------------End loginTest------------------------
+17:48:19.619 [main] INFO  com.myamazon.utility.Log - -------------Start endToEndTest------------------------
+17:48:19.619 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+17:48:19.831 [main] INFO  com.myamazon.utility.Log - Entered text :t-shirt
+17:48:22.060 [main] INFO  com.myamazon.utility.Log - Search Result Page loaded
+17:48:26.952 [main] INFO  com.myamazon.utility.Log - Clicked on product on Search Result Page
+17:48:27.107 [main] INFO  com.myamazon.utility.Log - Entered text :2.0
+17:48:27.107 [main] INFO  com.myamazon.utility.Log - Entered quantity
+17:48:27.286 [main] INFO  com.myamazon.utility.Log - Dropdown option selected
+17:48:27.287 [main] INFO  com.myamazon.utility.Log - Selected size
+17:48:27.512 [main] INFO  com.myamazon.utility.Log - Clicked on Add to Cart button
+17:48:32.051 [main] INFO  com.myamazon.utility.Log - Clicked on Proceed to Checkout button on Add to Cart page
+17:48:35.448 [main] INFO  com.myamazon.utility.Log - Clicked on Proceed to Checkout button on Order page
+17:48:35.630 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123456@gmail.com
+17:48:35.821 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123
+17:48:39.647 [main] INFO  com.myamazon.utility.Log - User logged in
+17:48:42.508 [main] INFO  com.myamazon.utility.Log - Clicked on Proceed to Checkout button on Shipping Page
+17:48:42.673 [main] INFO  com.myamazon.utility.Log - Checked Terms checkbox on Shipping Page
+17:48:44.419 [main] INFO  com.myamazon.utility.Log - Clicked on Proceed to Checkout button on Payment Page
+17:48:45.749 [main] INFO  com.myamazon.utility.Log - Clicked on Payment Method on Order Summary Page
+17:48:50.428 [main] INFO  com.myamazon.utility.Log - Clicked on Confirm Order button on Order Summary Page
+17:48:50.455 [main] INFO  com.myamazon.utility.Log - confirmOrderMessage validated successfully
+17:48:50.455 [main] INFO  com.myamazon.utility.Log - -------------End endToEndTest------------------------
+17:49:00.007 [main] INFO  com.myamazon.utility.Log - -------------Start addToCartTest------------------------
+17:49:00.009 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+17:49:00.223 [main] INFO  com.myamazon.utility.Log - Entered text :t-shirt
+17:49:03.410 [main] INFO  com.myamazon.utility.Log - Search Result Page loaded
+17:49:08.321 [main] INFO  com.myamazon.utility.Log - Clicked on product on Search Result Page
+17:49:08.472 [main] INFO  com.myamazon.utility.Log - Entered text :2.0
+17:49:08.472 [main] INFO  com.myamazon.utility.Log - Entered quantity
+17:49:08.613 [main] INFO  com.myamazon.utility.Log - Dropdown option selected
+17:49:08.613 [main] INFO  com.myamazon.utility.Log - Selected size
+17:49:08.799 [main] INFO  com.myamazon.utility.Log - Clicked on Add to Cart button
+17:49:10.030 [main] INFO  com.myamazon.utility.Log - addToCartMessage validated successfully
+17:49:10.031 [main] INFO  com.myamazon.utility.Log - -------------End addToCartTest------------------------
+17:49:18.637 [main] INFO  com.myamazon.utility.Log - -------------Start storeTitleTest------------------------
+17:49:18.639 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+17:49:18.646 [main] INFO  com.myamazon.utility.Log - Store title validated successfully
+17:49:18.646 [main] INFO  com.myamazon.utility.Log - -------------End storeTitleTest------------------------
+17:49:28.595 [main] INFO  com.myamazon.utility.Log - -------------Start productAvailabilityTest------------------------
+17:49:28.596 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+17:49:28.816 [main] INFO  com.myamazon.utility.Log - Entered text :t-shirt
+17:49:33.006 [main] INFO  com.myamazon.utility.Log - Search Result Page loaded
+17:49:33.084 [main] INFO  com.myamazon.utility.Log - productAvailability validated successfully
+17:49:33.085 [main] INFO  com.myamazon.utility.Log - -------------End productAvailabilityTest------------------------
+17:49:44.866 [main] INFO  com.myamazon.utility.Log - -------------Start orderHistoryTest------------------------
+17:49:44.867 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+17:49:51.122 [main] INFO  com.myamazon.utility.Log - Clicked on Sign in button
+17:49:51.346 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123456@gmail.com
+17:49:51.511 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123
+17:49:54.505 [main] INFO  com.myamazon.utility.Log - Entered Email address and password for login
+17:49:54.562 [main] INFO  com.myamazon.utility.Log - orderHistory label validated successfully
+17:49:54.562 [main] INFO  com.myamazon.utility.Log - -------------End orderHistoryTest------------------------
+17:50:08.074 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123456@gmail.com
+17:50:08.411 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123
+17:50:20.300 [main] INFO  com.myamazon.utility.Log - -------------Start totalPriceTest------------------------
+17:50:20.301 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+17:50:20.501 [main] INFO  com.myamazon.utility.Log - Entered text :t-shirt
+17:50:22.586 [main] INFO  com.myamazon.utility.Log - Search Result Page loaded
+17:50:26.161 [main] INFO  com.myamazon.utility.Log - Clicked on product on Search Result Page
+17:50:26.355 [main] INFO  com.myamazon.utility.Log - Entered text :2.0
+17:50:26.355 [main] INFO  com.myamazon.utility.Log - Entered quantity
+17:50:26.542 [main] INFO  com.myamazon.utility.Log - Dropdown option selected
+17:50:26.543 [main] INFO  com.myamazon.utility.Log - Selected size
+17:50:26.767 [main] INFO  com.myamazon.utility.Log - Clicked on Add to Cart button
+17:50:32.895 [main] INFO  com.myamazon.utility.Log - Clicked on Proceed to Checkout button on Add to Cart page
+17:50:33.115 [main] INFO  com.myamazon.utility.Log - totalExpectedPrice validated successfully
+17:50:33.115 [main] INFO  com.myamazon.utility.Log - -------------End totalPriceTest------------------------
+22:14:57.975 [main] INFO  com.myamazon.utility.Log - -------------Start loginTest------------------------
+22:14:58.034 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+22:15:05.894 [main] INFO  com.myamazon.utility.Log - Click on SignIn
+22:15:06.172 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123456@gmail.com
+22:15:06.454 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123
+22:15:10.858 [main] INFO  com.myamazon.utility.Log - Entered Email address and password for login
+22:15:10.871 [main] INFO  com.myamazon.utility.Log - Log in validated successfully
+22:15:10.871 [main] INFO  com.myamazon.utility.Log - -------------End loginTest------------------------
+22:15:27.632 [main] INFO  com.myamazon.utility.Log - -------------Start endToEndTest------------------------
+22:15:27.633 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+22:15:27.905 [main] INFO  com.myamazon.utility.Log - Entered text :t-shirt
+22:15:32.603 [main] INFO  com.myamazon.utility.Log - Search Result Page loaded
+22:15:39.609 [main] INFO  com.myamazon.utility.Log - Clicked on product on Search Result Page
+22:15:39.820 [main] INFO  com.myamazon.utility.Log - Entered text :2.0
+22:15:39.820 [main] INFO  com.myamazon.utility.Log - Entered quantity
+22:15:40.022 [main] INFO  com.myamazon.utility.Log - Dropdown option selected
+22:15:40.023 [main] INFO  com.myamazon.utility.Log - Selected size
+22:15:40.260 [main] INFO  com.myamazon.utility.Log - Clicked on Add to Cart button
+22:15:54.172 [main] INFO  com.myamazon.utility.Log - Clicked on Proceed to Checkout button on Add to Cart page
+22:16:07.648 [main] INFO  com.myamazon.utility.Log - Clicked on Proceed to Checkout button on Order page
+22:16:07.876 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123456@gmail.com
+22:16:08.113 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123
+22:16:13.645 [main] INFO  com.myamazon.utility.Log - User logged in
+22:16:17.038 [main] INFO  com.myamazon.utility.Log - Clicked on Proceed to Checkout button on Shipping Page
+22:16:17.205 [main] INFO  com.myamazon.utility.Log - Checked Terms checkbox on Shipping Page
+22:16:21.038 [main] INFO  com.myamazon.utility.Log - Clicked on Proceed to Checkout button on Payment Page
+22:16:23.360 [main] INFO  com.myamazon.utility.Log - Clicked on Payment Method on Order Summary Page
+22:16:27.316 [main] INFO  com.myamazon.utility.Log - Clicked on Confirm Order button on Order Summary Page
+22:16:27.357 [main] INFO  com.myamazon.utility.Log - confirmOrderMessage validated successfully
+22:16:27.358 [main] INFO  com.myamazon.utility.Log - -------------End endToEndTest------------------------
+22:16:49.866 [main] INFO  com.myamazon.utility.Log - -------------Start addToCartTest------------------------
+22:16:49.867 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+22:16:50.126 [main] INFO  com.myamazon.utility.Log - Entered text :t-shirt
+22:16:54.422 [main] INFO  com.myamazon.utility.Log - Search Result Page loaded
+22:17:03.455 [main] INFO  com.myamazon.utility.Log - Clicked on product on Search Result Page
+22:17:03.648 [main] INFO  com.myamazon.utility.Log - Entered text :2.0
+22:17:03.648 [main] INFO  com.myamazon.utility.Log - Entered quantity
+22:17:03.837 [main] INFO  com.myamazon.utility.Log - Dropdown option selected
+22:17:03.837 [main] INFO  com.myamazon.utility.Log - Selected size
+22:17:04.073 [main] INFO  com.myamazon.utility.Log - Clicked on Add to Cart button
+22:17:08.993 [main] INFO  com.myamazon.utility.Log - addToCartMessage validated successfully
+22:17:08.994 [main] INFO  com.myamazon.utility.Log - -------------End addToCartTest------------------------
+22:17:22.462 [main] INFO  com.myamazon.utility.Log - -------------Start storeTitleTest------------------------
+22:17:22.463 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+22:17:22.471 [main] INFO  com.myamazon.utility.Log - Store title validated successfully
+22:17:22.471 [main] INFO  com.myamazon.utility.Log - -------------End storeTitleTest------------------------
+22:17:34.311 [main] INFO  com.myamazon.utility.Log - -------------Start productAvailabilityTest------------------------
+22:17:34.313 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+22:17:34.509 [main] INFO  com.myamazon.utility.Log - Entered text :t-shirt
+22:17:38.301 [main] INFO  com.myamazon.utility.Log - Search Result Page loaded
+22:17:38.399 [main] INFO  com.myamazon.utility.Log - productAvailability validated successfully
+22:17:38.400 [main] INFO  com.myamazon.utility.Log - -------------End productAvailabilityTest------------------------
+22:17:52.483 [main] INFO  com.myamazon.utility.Log - -------------Start orderHistoryTest------------------------
+22:17:52.485 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+22:17:57.266 [main] INFO  com.myamazon.utility.Log - Clicked on Sign in button
+22:17:57.545 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123456@gmail.com
+22:17:57.862 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123
+22:18:00.909 [main] INFO  com.myamazon.utility.Log - Entered Email address and password for login
+22:18:01.012 [main] INFO  com.myamazon.utility.Log - orderHistory label validated successfully
+22:18:01.012 [main] INFO  com.myamazon.utility.Log - -------------End orderHistoryTest------------------------
+22:18:19.445 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123456@gmail.com
+22:18:19.749 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123
+22:18:36.735 [main] INFO  com.myamazon.utility.Log - -------------Start totalPriceTest------------------------
+22:18:36.736 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+22:18:36.946 [main] INFO  com.myamazon.utility.Log - Entered text :t-shirt
+22:18:39.358 [main] INFO  com.myamazon.utility.Log - Search Result Page loaded
+22:18:42.056 [main] INFO  com.myamazon.utility.Log - Clicked on product on Search Result Page
+22:18:42.290 [main] INFO  com.myamazon.utility.Log - Entered text :2.0
+22:18:42.290 [main] INFO  com.myamazon.utility.Log - Entered quantity
+22:18:42.493 [main] INFO  com.myamazon.utility.Log - Dropdown option selected
+22:18:42.493 [main] INFO  com.myamazon.utility.Log - Selected size
+22:18:42.721 [main] INFO  com.myamazon.utility.Log - Clicked on Add to Cart button
+22:18:47.262 [main] INFO  com.myamazon.utility.Log - Clicked on Proceed to Checkout button on Add to Cart page
+22:18:47.383 [main] INFO  com.myamazon.utility.Log - totalExpectedPrice validated successfully
+22:18:47.384 [main] INFO  com.myamazon.utility.Log - -------------End totalPriceTest------------------------
+22:25:22.206 [main] INFO  com.myamazon.utility.Log - -------------Start loginTest------------------------
+22:25:22.274 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+22:25:31.501 [main] INFO  com.myamazon.utility.Log - Click on SignIn
+22:25:31.820 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123456@gmail.com
+22:25:32.068 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123
+22:25:40.155 [main] INFO  com.myamazon.utility.Log - Entered Email address and password for login
+22:25:40.171 [main] INFO  com.myamazon.utility.Log - Log in validated successfully
+22:25:40.172 [main] INFO  com.myamazon.utility.Log - -------------End loginTest------------------------
+22:25:58.209 [main] INFO  com.myamazon.utility.Log - -------------Start endToEndTest------------------------
+22:25:58.210 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+22:25:58.415 [main] INFO  com.myamazon.utility.Log - Entered text :t-shirt
+22:26:03.558 [main] INFO  com.myamazon.utility.Log - Search Result Page loaded
+22:26:09.763 [main] INFO  com.myamazon.utility.Log - Clicked on product on Search Result Page
+22:26:10.079 [main] INFO  com.myamazon.utility.Log - Entered text :2.0
+22:26:10.080 [main] INFO  com.myamazon.utility.Log - Entered quantity
+22:26:10.658 [main] INFO  com.myamazon.utility.Log - Dropdown option selected
+22:26:10.659 [main] INFO  com.myamazon.utility.Log - Selected size
+22:26:10.953 [main] INFO  com.myamazon.utility.Log - Clicked on Add to Cart button
+22:26:18.931 [main] INFO  com.myamazon.utility.Log - Clicked on Proceed to Checkout button on Add to Cart page
+22:26:28.728 [main] INFO  com.myamazon.utility.Log - Clicked on Proceed to Checkout button on Order page
+22:26:29.046 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123456@gmail.com
+22:26:29.778 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123
+22:26:41.571 [main] INFO  com.myamazon.utility.Log - User logged in
+22:26:46.487 [main] INFO  com.myamazon.utility.Log - Clicked on Proceed to Checkout button on Shipping Page
+22:26:46.726 [main] INFO  com.myamazon.utility.Log - Checked Terms checkbox on Shipping Page
+22:26:51.154 [main] INFO  com.myamazon.utility.Log - Clicked on Proceed to Checkout button on Payment Page
+22:26:54.194 [main] INFO  com.myamazon.utility.Log - Clicked on Payment Method on Order Summary Page
+22:26:58.789 [main] INFO  com.myamazon.utility.Log - Clicked on Confirm Order button on Order Summary Page
+22:26:58.827 [main] INFO  com.myamazon.utility.Log - confirmOrderMessage validated successfully
+22:26:58.827 [main] INFO  com.myamazon.utility.Log - -------------End endToEndTest------------------------
+22:27:14.259 [main] INFO  com.myamazon.utility.Log - -------------Start addToCartTest------------------------
+22:27:14.261 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+22:27:14.554 [main] INFO  com.myamazon.utility.Log - Entered text :t-shirt
+22:27:18.829 [main] INFO  com.myamazon.utility.Log - Search Result Page loaded
+22:27:23.676 [main] INFO  com.myamazon.utility.Log - Clicked on product on Search Result Page
+22:27:23.969 [main] INFO  com.myamazon.utility.Log - Entered text :2.0
+22:27:23.969 [main] INFO  com.myamazon.utility.Log - Entered quantity
+22:27:24.203 [main] INFO  com.myamazon.utility.Log - Dropdown option selected
+22:27:24.203 [main] INFO  com.myamazon.utility.Log - Selected size
+22:27:24.443 [main] INFO  com.myamazon.utility.Log - Clicked on Add to Cart button
+22:27:27.400 [main] INFO  com.myamazon.utility.Log - addToCartMessage validated successfully
+22:27:27.400 [main] INFO  com.myamazon.utility.Log - -------------End addToCartTest------------------------
+22:27:39.741 [main] INFO  com.myamazon.utility.Log - -------------Start storeTitleTest------------------------
+22:27:39.742 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+22:27:39.760 [main] INFO  com.myamazon.utility.Log - Store title validated successfully
+22:27:39.761 [main] INFO  com.myamazon.utility.Log - -------------End storeTitleTest------------------------
+22:27:45.127 [main] INFO  com.myamazon.utility.Log - -------------Start productAvailabilityTest------------------------
+22:27:45.131 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+22:27:58.603 [main] INFO  com.myamazon.utility.Log - -------------Start orderHistoryTest------------------------
+22:27:58.604 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+22:28:01.042 [main] INFO  com.myamazon.utility.Log - Clicked on Sign in button
+22:28:01.374 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123456@gmail.com
+22:28:01.656 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123
+22:28:06.844 [main] INFO  com.myamazon.utility.Log - Entered Email address and password for login
+22:28:07.299 [main] INFO  com.myamazon.utility.Log - orderHistory label validated successfully
+22:28:07.300 [main] INFO  com.myamazon.utility.Log - -------------End orderHistoryTest------------------------
+22:28:24.133 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123456@gmail.com
+22:28:24.468 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123
+22:28:38.498 [main] INFO  com.myamazon.utility.Log - -------------Start totalPriceTest------------------------
+22:28:38.498 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+22:28:38.749 [main] INFO  com.myamazon.utility.Log - Entered text :t-shirt
+22:28:43.152 [main] INFO  com.myamazon.utility.Log - Search Result Page loaded
+22:28:47.227 [main] INFO  com.myamazon.utility.Log - Clicked on product on Search Result Page
+22:28:47.633 [main] INFO  com.myamazon.utility.Log - Entered text :2.0
+22:28:47.633 [main] INFO  com.myamazon.utility.Log - Entered quantity
+22:28:47.892 [main] INFO  com.myamazon.utility.Log - Dropdown option selected
+22:28:47.892 [main] INFO  com.myamazon.utility.Log - Selected size
+22:28:48.165 [main] INFO  com.myamazon.utility.Log - Clicked on Add to Cart button
+22:28:53.614 [main] INFO  com.myamazon.utility.Log - Clicked on Proceed to Checkout button on Add to Cart page
+22:28:53.787 [main] INFO  com.myamazon.utility.Log - totalExpectedPrice validated successfully
+22:28:53.787 [main] INFO  com.myamazon.utility.Log - -------------End totalPriceTest------------------------
+22:31:00.572 [main] INFO  com.myamazon.utility.Log - -------------Start productAvailabilityTest------------------------
+22:31:00.613 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+22:31:01.043 [main] INFO  com.myamazon.utility.Log - Entered text :t-shirt
+22:31:04.613 [main] INFO  com.myamazon.utility.Log - Search Result Page loaded
+22:31:04.724 [main] INFO  com.myamazon.utility.Log - productAvailability validated successfully
+22:31:04.724 [main] INFO  com.myamazon.utility.Log - -------------End productAvailabilityTest------------------------
+22:32:00.475 [main] INFO  com.myamazon.utility.Log - -------------Start loginTest------------------------
+22:32:00.514 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+22:32:09.990 [main] INFO  com.myamazon.utility.Log - Click on SignIn
+22:32:12.397 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123456@gmail.com
+22:32:13.149 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123
+22:32:21.822 [main] INFO  com.myamazon.utility.Log - Entered Email address and password for login
+22:32:21.977 [main] INFO  com.myamazon.utility.Log - Log in validated successfully
+22:32:21.977 [main] INFO  com.myamazon.utility.Log - -------------End loginTest------------------------
+22:32:50.831 [main] INFO  com.myamazon.utility.Log - -------------Start storeTitleTest------------------------
+22:32:50.831 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+22:32:50.843 [main] INFO  com.myamazon.utility.Log - Store title validated successfully
+22:32:50.843 [main] INFO  com.myamazon.utility.Log - -------------End storeTitleTest------------------------
+22:33:05.086 [main] INFO  com.myamazon.utility.Log - -------------Start productAvailabilityTest------------------------
+22:33:05.091 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+22:33:05.554 [main] INFO  com.myamazon.utility.Log - Entered text :t-shirt
+22:33:11.544 [main] INFO  com.myamazon.utility.Log - Search Result Page loaded
+22:33:11.646 [main] INFO  com.myamazon.utility.Log - productAvailability validated successfully
+22:33:11.647 [main] INFO  com.myamazon.utility.Log - -------------End productAvailabilityTest------------------------
+22:33:23.922 [main] INFO  com.myamazon.utility.Log - -------------Start orderHistoryTest------------------------
+22:33:23.923 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+22:33:27.431 [main] INFO  com.myamazon.utility.Log - Clicked on Sign in button
+22:33:27.741 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123456@gmail.com
+22:33:28.059 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123
+22:33:31.240 [main] INFO  com.myamazon.utility.Log - Entered Email address and password for login
+22:33:31.451 [main] INFO  com.myamazon.utility.Log - orderHistory label validated successfully
+22:33:31.452 [main] INFO  com.myamazon.utility.Log - -------------End orderHistoryTest------------------------
+22:33:46.580 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123456@gmail.com
+22:33:47.072 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123
+22:39:35.028 [main] INFO  com.myamazon.utility.Log - -------------Start loginTest------------------------
+22:39:35.192 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+22:40:00.774 [main] INFO  com.myamazon.utility.Log - Click on SignIn
+22:40:01.455 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123456@gmail.com
+22:40:01.845 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123
+22:40:09.896 [main] INFO  com.myamazon.utility.Log - Entered Email address and password for login
+22:40:10.163 [main] INFO  com.myamazon.utility.Log - Log in validated successfully
+22:40:10.164 [main] INFO  com.myamazon.utility.Log - -------------End loginTest------------------------
+22:40:53.397 [main] INFO  com.myamazon.utility.Log - -------------Start endToEndTest------------------------
+22:40:53.398 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+22:40:54.409 [main] INFO  com.myamazon.utility.Log - Entered text :t-shirt
+22:41:00.700 [main] INFO  com.myamazon.utility.Log - Search Result Page loaded
+22:41:07.684 [main] INFO  com.myamazon.utility.Log - Clicked on product on Search Result Page
+22:41:08.411 [main] INFO  com.myamazon.utility.Log - Entered text :2.0
+22:41:08.412 [main] INFO  com.myamazon.utility.Log - Entered quantity
+22:41:08.840 [main] INFO  com.myamazon.utility.Log - Dropdown option selected
+22:41:08.841 [main] INFO  com.myamazon.utility.Log - Selected size
+22:41:09.356 [main] INFO  com.myamazon.utility.Log - Clicked on Add to Cart button
+22:41:31.734 [main] INFO  com.myamazon.utility.Log - Clicked on Proceed to Checkout button on Add to Cart page
+22:41:44.127 [main] INFO  com.myamazon.utility.Log - Clicked on Proceed to Checkout button on Order page
+22:41:48.621 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123456@gmail.com
+22:41:49.915 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123
+22:41:59.560 [main] INFO  com.myamazon.utility.Log - User logged in
+22:42:04.230 [main] INFO  com.myamazon.utility.Log - Clicked on Proceed to Checkout button on Shipping Page
+22:42:04.963 [main] INFO  com.myamazon.utility.Log - Checked Terms checkbox on Shipping Page
+22:42:10.880 [main] INFO  com.myamazon.utility.Log - Clicked on Proceed to Checkout button on Payment Page
+22:42:13.825 [main] INFO  com.myamazon.utility.Log - Clicked on Payment Method on Order Summary Page
+22:42:18.541 [main] INFO  com.myamazon.utility.Log - Clicked on Confirm Order button on Order Summary Page
+22:42:18.611 [main] INFO  com.myamazon.utility.Log - confirmOrderMessage validated successfully
+22:42:18.612 [main] INFO  com.myamazon.utility.Log - -------------End endToEndTest------------------------
+22:42:46.230 [main] INFO  com.myamazon.utility.Log - -------------Start addToCartTest------------------------
+22:42:46.231 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+22:42:48.862 [main] INFO  com.myamazon.utility.Log - Entered text :t-shirt
+22:42:57.056 [main] INFO  com.myamazon.utility.Log - Search Result Page loaded
+22:43:05.878 [main] INFO  com.myamazon.utility.Log - Clicked on product on Search Result Page
+22:43:06.343 [main] INFO  com.myamazon.utility.Log - Entered text :2.0
+22:43:06.343 [main] INFO  com.myamazon.utility.Log - Entered quantity
+22:43:06.664 [main] INFO  com.myamazon.utility.Log - Dropdown option selected
+22:43:06.664 [main] INFO  com.myamazon.utility.Log - Selected size
+22:43:06.956 [main] INFO  com.myamazon.utility.Log - Clicked on Add to Cart button
+22:43:09.924 [main] INFO  com.myamazon.utility.Log - addToCartMessage validated successfully
+22:43:09.924 [main] INFO  com.myamazon.utility.Log - -------------End addToCartTest------------------------
+22:43:26.819 [main] INFO  com.myamazon.utility.Log - -------------Start storeTitleTest------------------------
+22:43:26.820 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+22:43:44.009 [main] INFO  com.myamazon.utility.Log - Store title validated successfully
+22:43:44.009 [main] INFO  com.myamazon.utility.Log - -------------End storeTitleTest------------------------
+22:45:04.688 [main] INFO  com.myamazon.utility.Log - -------------Start productAvailabilityTest------------------------
+22:45:04.689 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+22:45:09.375 [main] INFO  com.myamazon.utility.Log - Entered text :t-shirt
+22:45:17.162 [main] INFO  com.myamazon.utility.Log - Search Result Page loaded
+22:45:17.754 [main] INFO  com.myamazon.utility.Log - productAvailability validated successfully
+22:45:17.755 [main] INFO  com.myamazon.utility.Log - -------------End productAvailabilityTest------------------------
+22:45:35.308 [main] INFO  com.myamazon.utility.Log - -------------Start orderHistoryTest------------------------
+22:45:35.309 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+22:45:41.686 [main] INFO  com.myamazon.utility.Log - Clicked on Sign in button
+22:45:42.278 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123456@gmail.com
+22:45:42.568 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123
+22:45:46.624 [main] INFO  com.myamazon.utility.Log - Entered Email address and password for login
+22:45:49.360 [main] INFO  com.myamazon.utility.Log - orderHistory label validated successfully
+22:45:49.360 [main] INFO  com.myamazon.utility.Log - -------------End orderHistoryTest------------------------
+22:46:12.578 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123456@gmail.com
+22:46:12.847 [main] INFO  com.myamazon.utility.Log - Entered text :vineet123
+22:46:27.512 [main] INFO  com.myamazon.utility.Log - -------------Start totalPriceTest------------------------
+22:46:27.513 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+22:46:28.054 [main] INFO  com.myamazon.utility.Log - Entered text :t-shirt
+22:46:34.354 [main] INFO  com.myamazon.utility.Log - Search Result Page loaded
+22:46:40.042 [main] INFO  com.myamazon.utility.Log - Clicked on product on Search Result Page
+22:46:40.381 [main] INFO  com.myamazon.utility.Log - Entered text :2.0
+22:46:40.382 [main] INFO  com.myamazon.utility.Log - Entered quantity
+22:46:40.635 [main] INFO  com.myamazon.utility.Log - Dropdown option selected
+22:46:40.635 [main] INFO  com.myamazon.utility.Log - Selected size
+22:46:40.878 [main] INFO  com.myamazon.utility.Log - Clicked on Add to Cart button
+22:46:47.209 [main] INFO  com.myamazon.utility.Log - Clicked on Proceed to Checkout button on Add to Cart page
+22:46:49.425 [main] INFO  com.myamazon.utility.Log - totalExpectedPrice validated successfully
+22:46:49.425 [main] INFO  com.myamazon.utility.Log - -------------End totalPriceTest------------------------
+15:49:58.625 [main] INFO  com.myamazon.utility.Log - -------------Start loginTest------------------------
+15:49:58.676 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+15:50:24.582 [main] INFO  com.myamazon.utility.Log - -------------Start addToCartTest------------------------
+15:50:24.582 [main] INFO  com.myamazon.utility.Log - Index Page loaded
+15:50:24.839 [main] INFO  com.myamazon.utility.Log - Entered text :t-shirt
