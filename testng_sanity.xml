@@ -14,13 +14,6 @@
 		</groups>
 		<classes>
 			<class name="com.myamazon.testcases.LoginTest" />
-			<class name="com.myamazon.testcases.EndToEndTest" />
-			<class name="com.myamazon.testcases.CartAddTest" />
-			<class name="com.myamazon.testcases.TitleTest" />
-			<class name="com.myamazon.testcases.ProductAvailableTest" />
-			<class name="com.myamazon.testcases.OrderHistoryWishlistLabelTest" />
-			<class name="com.myamazon.testcases.TotalPriceTest" />
-			<class name="com.myamazon.testcases.CartAddTest" />
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
