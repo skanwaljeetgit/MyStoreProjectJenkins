@@ -16,4 +16,13 @@ stages
         }
     
 
-}}
+}
+
+    post{
+        //always{//execute all times
+       //}
+        success{
+        bat "echo success"
+        }
+    }
+}
