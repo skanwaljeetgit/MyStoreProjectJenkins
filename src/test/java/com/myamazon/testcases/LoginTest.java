@@ -23,9 +23,9 @@ public class LoginTest extends BaseClass {
 	public void loginTest(String email, String password) {
 		Log.startTestCase("loginTest");
 		indexPage = new IndexPage();
+		boolean accountSuspendMessage;
 		try{
-		boolean accountSuspendMessage = indexPage.getAccountSuspendedMessage();
-			System.out.println(accountSuspendMessage);
+		accountSuspendMessage= indexPage.getAccountSuspendedMessage();
 		}
 		catch(Exception e){
 		System.out.println("Interrupted Exception thrown");
