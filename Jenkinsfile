@@ -22,7 +22,7 @@ stages
         }
     
 
-}
+
     stage ("Sonar Analysis")
     {
         steps{
@@ -34,7 +34,7 @@ stages
             }
         }
     }
-
+    }
     post{
         //always{//execute all times
        //}
