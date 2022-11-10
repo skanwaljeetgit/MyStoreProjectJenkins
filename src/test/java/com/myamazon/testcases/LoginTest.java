@@ -23,7 +23,12 @@ public class LoginTest extends BaseClass {
 	public void loginTest(String email, String password) {
 		Log.startTestCase("loginTest");
 		indexPage = new IndexPage();
+		try{
 		indexPage.getAccountSuspendedMessage();
+		}
+		catch(Exception e){
+		System.out.println("Interrupted Exception thrown");
+		}
 		Log.info("Index Page loaded");
 		/*LoginPage = indexPage.clickOnSignIn();
 		Log.info("Click on SignIn");
