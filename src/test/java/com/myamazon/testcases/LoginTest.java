@@ -24,7 +24,7 @@ public class LoginTest extends BaseClass {
 		Log.startTestCase("loginTest");
 		indexPage = new IndexPage();
 		try{
-		indexPage.getAccountSuspendedMessage();
+		String accountSuspendMessage = indexPage.getAccountSuspendedMessage();
 		}
 		catch(Exception e){
 		System.out.println("Interrupted Exception thrown");
@@ -37,6 +37,7 @@ public class LoginTest extends BaseClass {
 		String actualURL = homePage.getCurrentUrl();
 		String expectedURL = prop.getProperty("expectedUrl");
 		Assert.assertEquals(actualURL, expectedURL);*/
+		Assert.assertEquals(accountSuspendMessage, "This Account has been suspended.");
 		Log.info("Log in validated successfully");
 		Log.endTestCase("loginTest");
 	}
