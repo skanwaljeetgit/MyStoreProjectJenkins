@@ -34,6 +34,18 @@ stages
             }
         }
     }
+        stage("Upload to Artifactory"){
+            steps{
+            rtMavenDeployer(id: 'deployer', 
+                            serverId: '123456789@artifactory', 
+                            releaseRepo: 'ksdevtestops',
+                            snapshotRepo: 'ksdevtestops')
+                rtMavenRun(pom:'pom.xml',
+                          goals: 'clean install',
+                          deployerId: 'deployer')
+                rtPublishBuildInfo(serverId: '123456789@artifactory')
+            }
+        }
     }
     post{
         //always{//execute all times
