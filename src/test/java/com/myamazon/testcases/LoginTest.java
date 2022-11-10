@@ -23,6 +23,7 @@ public class LoginTest extends BaseClass {
 	public void loginTest(String email, String password) {
 		Log.startTestCase("loginTest");
 		indexPage = new IndexPage();
+		indexPage.getAccountSuspendedMessage();
 		Log.info("Index Page loaded");
 		/*LoginPage = indexPage.clickOnSignIn();
 		Log.info("Click on SignIn");
