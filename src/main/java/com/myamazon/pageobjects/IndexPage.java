@@ -56,7 +56,7 @@ public class IndexPage extends BaseClass {
 		return storeTitle;
 	}
 	
-	public boolean getAccountSuspendedMessage() throws InterruptedException	{
+	public boolean getAccountSuspendedMessage() {
 		
 		return Action.isDisplayed(driver, accountSuspendedMessage);// driver is used directly since it is coming from base class
 	}
