@@ -20,6 +20,9 @@ public class IndexPage extends BaseClass {
 
 	@FindBy(name = "submit_search")
 	WebElement searchButton;
+	
+	@FindBy(xpath = "//div[contains(text(),'This Account has been suspended.')]")
+	WebElement accountSuspendedMessage;
 
 	public IndexPage() {
 
@@ -51,6 +54,11 @@ public class IndexPage extends BaseClass {
 
 		String storeTitle = driver.getTitle();
 		return storeTitle;
+	}
+	
+	public String getAccountSuspendedMessage()
+	{
+		return Action.isDisplayed(driver, accountSuspendedMessage);// driver is used directly since it is coming from base class
 	}
 
 	public SearchResultPage searchProduct(String productName) {
