@@ -23,7 +23,7 @@ stages
     
 
 
-   /* stage ("Sonar Analysis")
+    stage ("Sonar Analysis")
     {
         steps{
             withSonarQubeEnv("SonarQubeServerDevTestOps")
@@ -33,7 +33,7 @@ stages
 
             }
         }
-    }*/
+    }
         stage("Upload to Artifactory"){
             steps{
             rtMavenDeployer(id: 'deployer', 
