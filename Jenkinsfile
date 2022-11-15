@@ -6,7 +6,7 @@ agent any
     
 stages
     {
-    stage("code checkout"){
+    /*stage("code checkout"){
         steps{
         bat "echo hello stage"
         }
@@ -45,7 +45,7 @@ stages
                           deployerId: 'deployer')
                 rtPublishBuildInfo(serverId: '123456789@artifactory')
             }
-        }
+        }*/
         stage("Build Image"){
             steps{
                 bat "docker build -t firstimage:${BUILD_NUMBER} ."
