@@ -46,7 +46,7 @@ stages
                 rtPublishBuildInfo(serverId: '123456789@artifactory')
             }
         }
-        stage("Build Image"){
+    /*    stage("Build Image"){
             steps{
                 bat "docker build -t firstimage:${BUILD_NUMBER} ."
             }
@@ -55,7 +55,7 @@ stages
             steps{
                 bat "docker run --name firstcontainer -d -p 9050:8080 firstimage:${BUILD_NUMBER}"
             }
-        }
+        }*/
     }
     post{
         //always{//execute all times
