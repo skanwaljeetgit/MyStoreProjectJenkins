@@ -38,12 +38,22 @@ stages
             steps{
             rtMavenDeployer(id: 'deployer', 
                             serverId: '123456789@artifactory', 
-                            releaseRepo: 'ksdevtestops',
-                            snapshotRepo: 'ksdevtestops')
+                            releaseRepo: 'ksdevtestopscdflow',
+                            snapshotRepo: 'ksdevtestopscdflow')
                 rtMavenRun(pom:'pom.xml',
                           goals: 'clean install',
                           deployerId: 'deployer')
                 rtPublishBuildInfo(serverId: '123456789@artifactory')
+            }
+        }
+        stage("Build Image"){
+            steps{
+                bat "docker build -t firstimage:${BUILD_NUMBER} ."
+            }
+        }
+        stage("Docker Deployment"){
+            steps{
+                bat "docker run --name firstcontainer -d -p 9050:8080 firstimage:${BUILD_NUMBER}"
             }
         }
     }
